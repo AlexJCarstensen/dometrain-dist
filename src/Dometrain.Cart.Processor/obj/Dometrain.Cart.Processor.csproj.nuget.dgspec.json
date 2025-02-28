@@ -1,0 +1,499 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Processor/Dometrain.Cart.Processor.csproj": {}
+  },
+  "projects": {
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/Dometrain.Api.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/Dometrain.Api.Shared.csproj",
+        "projectName": "Dometrain.Api.Shared",
+        "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/Dometrain.Api.Shared.csproj",
+        "packagesPath": "/home/aljc-linux/.nuget/packages/",
+        "outputPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aljc-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/Dometrain.Aspire.ServiceDefaults.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/Dometrain.Aspire.ServiceDefaults.csproj",
+        "projectName": "Dometrain.Aspire.ServiceDefaults",
+        "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/Dometrain.Aspire.ServiceDefaults.csproj",
+        "packagesPath": "/home/aljc-linux/.nuget/packages/",
+        "outputPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aljc-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Exporter.Prometheus.AspNetCore": {
+              "target": "Package",
+              "version": "[1.11.0-beta.1, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Runtime": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/Dometrain.Cart.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/Dometrain.Cart.Api.csproj",
+        "projectName": "Dometrain.Cart.Api",
+        "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/Dometrain.Cart.Api.csproj",
+        "packagesPath": "/home/aljc-linux/.nuget/packages/",
+        "outputPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aljc-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/Dometrain.Api.Shared.csproj": {
+                "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/Dometrain.Api.Shared.csproj"
+              },
+              "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/Dometrain.Monolith.Api.Sdk.csproj": {
+                "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/Dometrain.Monolith.Api.Sdk.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Aspire.Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "Aspire.StackExchange.Redis": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "OpenTelemetry.Exporter.Console": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Processor/Dometrain.Cart.Processor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Processor/Dometrain.Cart.Processor.csproj",
+        "projectName": "Dometrain.Cart.Processor",
+        "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Processor/Dometrain.Cart.Processor.csproj",
+        "packagesPath": "/home/aljc-linux/.nuget/packages/",
+        "outputPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Processor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aljc-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/Dometrain.Aspire.ServiceDefaults.csproj": {
+                "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/Dometrain.Aspire.ServiceDefaults.csproj"
+              },
+              "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/Dometrain.Cart.Api.csproj": {
+                "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/Dometrain.Cart.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Aspire.Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/Dometrain.Monolith.Api.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/Dometrain.Monolith.Api.Contracts.csproj",
+        "projectName": "Dometrain.Monolith.Api.Contracts",
+        "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/Dometrain.Monolith.Api.Contracts.csproj",
+        "packagesPath": "/home/aljc-linux/.nuget/packages/",
+        "outputPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aljc-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/Dometrain.Monolith.Api.Sdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/Dometrain.Monolith.Api.Sdk.csproj",
+        "projectName": "Dometrain.Monolith.Api.Sdk",
+        "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/Dometrain.Monolith.Api.Sdk.csproj",
+        "packagesPath": "/home/aljc-linux/.nuget/packages/",
+        "outputPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aljc-linux/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/Dometrain.Monolith.Api.Contracts.csproj": {
+                "projectPath": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/Dometrain.Monolith.Api.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Http.Resilience": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

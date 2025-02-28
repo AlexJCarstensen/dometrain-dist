@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "WkIJCOObxf9sFxHXhNcP82hBrih0cJmgj3f3jJH/pJU=",
+  "Source": "Dometrain.Cart.Processor",
+  "BasePath": "_content/Dometrain.Cart.Processor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/Dometrain.Cart.Api.csproj",
+      "Version": 2,
+      "Source": "Dometrain.Cart.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

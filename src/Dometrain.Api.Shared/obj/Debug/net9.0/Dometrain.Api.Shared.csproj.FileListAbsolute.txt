@@ -1,0 +1,13 @@
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/bin/Debug/net9.0/Dometrain.Api.Shared.deps.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/bin/Debug/net9.0/Dometrain.Api.Shared.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/bin/Debug/net9.0/Dometrain.Api.Shared.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.csproj.AssemblyReference.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.AssemblyInfoInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.AssemblyInfo.cs
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.csproj.CoreCompileInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.sourcelink.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/refint/Dometrain.Api.Shared.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/Dometrain.Api.Shared.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Api.Shared/obj/Debug/net9.0/ref/Dometrain.Api.Shared.dll

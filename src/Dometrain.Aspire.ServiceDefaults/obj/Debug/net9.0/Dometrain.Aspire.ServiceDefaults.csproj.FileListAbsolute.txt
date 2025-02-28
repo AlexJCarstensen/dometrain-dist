@@ -1,0 +1,13 @@
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/bin/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.deps.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/bin/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/bin/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.csproj.AssemblyReference.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.AssemblyInfoInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.AssemblyInfo.cs
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.sourcelink.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/refint/Dometrain.Aspire.ServiceDefaults.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/Dometrain.Aspire.ServiceDefaults.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Aspire.ServiceDefaults/obj/Debug/net9.0/ref/Dometrain.Aspire.ServiceDefaults.dll

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <InvariantGlobalization>true</InvariantGlobalization>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Aspire.Npgsql" Version="9.1.0" />
+        <PackageReference Include="Aspire.StackExchange.Redis" Version="9.1.0" />
+        <PackageReference Include="CommunityToolkit.Aspire.MassTransit.RabbitMQ" Version="9.2.0" />
+        <PackageReference Include="Dapper" Version="2.1.66" />
+        <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.11.0" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.2" />
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.2" />
+        <PackageReference Include="Npgsql" Version="9.0.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="7.3.1" />
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.6.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Dometrain.Api.Shared\Dometrain.Api.Shared.csproj" />
+      <ProjectReference Include="..\Dometrain.Aspire.ServiceDefaults\Dometrain.Aspire.ServiceDefaults.csproj" />
+      <ProjectReference Include="..\Dometrain.Monolith.Api.Contracts\Dometrain.Monolith.Api.Contracts.csproj" />
+    </ItemGroup>
+
+</Project>

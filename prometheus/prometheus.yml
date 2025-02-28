@@ -1,0 +1,8 @@
+global:
+  scrape_interval: 1s # For the love of god don't set it that low in production. We are just using it for demo purposes
+
+scrape_configs:
+  - job_name: 'dometrain-api'
+    metrics_path: '/metrics'
+    static_configs:
+      - targets: ['host.docker.internal:5148'] # hard-coded port matches launchSettings.json

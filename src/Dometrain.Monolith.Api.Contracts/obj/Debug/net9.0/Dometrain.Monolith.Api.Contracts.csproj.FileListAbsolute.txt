@@ -1,0 +1,12 @@
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/bin/Debug/net9.0/Dometrain.Monolith.Api.Contracts.deps.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/bin/Debug/net9.0/Dometrain.Monolith.Api.Contracts.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/bin/Debug/net9.0/Dometrain.Monolith.Api.Contracts.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.AssemblyInfoInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.AssemblyInfo.cs
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.csproj.CoreCompileInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.sourcelink.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/refint/Dometrain.Monolith.Api.Contracts.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/Dometrain.Monolith.Api.Contracts.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Contracts/obj/Debug/net9.0/ref/Dometrain.Monolith.Api.Contracts.dll

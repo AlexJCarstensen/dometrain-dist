@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CPbsGgOUy9u5o4LzV8mvw/G9abX9yiYc6kW0EakEeG4=",
+  "Source": "Dometrain.Monolith.Api",
+  "BasePath": "_content/Dometrain.Monolith.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

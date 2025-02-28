@@ -1,0 +1,16 @@
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/bin/Debug/net9.0/Dometrain.Monolith.Api.Sdk.deps.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/bin/Debug/net9.0/Dometrain.Monolith.Api.Sdk.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/bin/Debug/net9.0/Dometrain.Monolith.Api.Sdk.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/bin/Debug/net9.0/Dometrain.Monolith.Api.Contracts.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/bin/Debug/net9.0/Dometrain.Monolith.Api.Contracts.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.csproj.AssemblyReference.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.AssemblyInfoInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.AssemblyInfo.cs
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.csproj.CoreCompileInputs.cache
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.sourcelink.json
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrai.CF89D107.Up2Date
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/refint/Dometrain.Monolith.Api.Sdk.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/Dometrain.Monolith.Api.Sdk.pdb
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Monolith.Api.Sdk/obj/Debug/net9.0/ref/Dometrain.Monolith.Api.Sdk.dll

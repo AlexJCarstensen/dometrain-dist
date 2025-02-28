@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Dometrain.Monolith.Api.props" />
+</Project>
