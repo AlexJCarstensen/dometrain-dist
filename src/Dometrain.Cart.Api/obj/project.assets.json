@@ -587,6 +587,19 @@
           }
         }
       },
+      "Microsoft.Extensions.Features/8.0.12": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.FileProviders.Abstractions/9.0.2": {
         "type": "package",
         "dependencies": {
@@ -858,6 +871,52 @@
         },
         "build": {
           "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.ServiceDiscovery/9.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "8.0.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Features": "8.0.12",
+          "Microsoft.Extensions.Http": "8.0.1",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.3",
+          "Microsoft.Extensions.Options": "8.0.2",
+          "Microsoft.Extensions.Primitives": "8.0.0",
+          "Microsoft.Extensions.ServiceDiscovery.Abstractions": "9.1.0"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.ServiceDiscovery.Abstractions/9.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Configuration.Binder": "8.0.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.2",
+          "Microsoft.Extensions.Features": "8.0.12",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.3",
+          "Microsoft.Extensions.Options": "8.0.2",
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Telemetry/9.2.0": {
@@ -3511,6 +3570,25 @@
         "microsoft.extensions.diagnostics.healthchecks.abstractions.nuspec"
       ]
     },
+    "Microsoft.Extensions.Features/8.0.12": {
+      "sha512": "NnoxzBc79BB1+U8astDIiRnnmtEemavMT+twoLNQO7Cr2/3KUFoZhnFo+agQRiG6xD736FGDzZFozy8W6DCDig==",
+      "type": "package",
+      "path": "microsoft.extensions.features/8.0.12",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net462/Microsoft.Extensions.Features.dll",
+        "lib/net462/Microsoft.Extensions.Features.xml",
+        "lib/net8.0/Microsoft.Extensions.Features.dll",
+        "lib/net8.0/Microsoft.Extensions.Features.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.Features.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Features.xml",
+        "microsoft.extensions.features.8.0.12.nupkg.sha512",
+        "microsoft.extensions.features.nuspec"
+      ]
+    },
     "Microsoft.Extensions.FileProviders.Abstractions/9.0.2": {
       "sha512": "IcOBmTlr2jySswU+3x8c3ql87FRwTVPQgVKaV5AXzPT5u0VItfNU8SMbESpdSp5STwxT/1R99WYszgHWsVkzhg==",
       "type": "package",
@@ -3907,6 +3985,38 @@
         "lib/net9.0/Microsoft.Extensions.Resilience.xml",
         "microsoft.extensions.resilience.9.2.0.nupkg.sha512",
         "microsoft.extensions.resilience.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.ServiceDiscovery/9.1.0": {
+      "sha512": "c/QYDSFmLOKN9N0pD1ZDmaWtT7wdTdSjOXYA39RfVeuLi+Q5OcQusB//NDwBpeAd6XbrY916p8vxLyOKelXrcQ==",
+      "type": "package",
+      "path": "microsoft.extensions.servicediscovery/9.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.dll",
+        "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.xml",
+        "microsoft.extensions.servicediscovery.9.1.0.nupkg.sha512",
+        "microsoft.extensions.servicediscovery.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.ServiceDiscovery.Abstractions/9.1.0": {
+      "sha512": "XtOy3Dp8ZK2/p9t3b9o5Jea92kPmfxLzSHOre5Nq6IucH6r6DjgqIHP3w49aH5nPIVslTNMGvVglAwUsaqBVcQ==",
+      "type": "package",
+      "path": "microsoft.extensions.servicediscovery.abstractions/9.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.xml",
+        "microsoft.extensions.servicediscovery.abstractions.9.1.0.nupkg.sha512",
+        "microsoft.extensions.servicediscovery.abstractions.nuspec"
       ]
     },
     "Microsoft.Extensions.Telemetry/9.2.0": {
@@ -7491,6 +7601,7 @@
       "Aspire.StackExchange.Redis >= 9.1.0",
       "Dometrain.Api.Shared >= 1.0.0",
       "Dometrain.Monolith.Api.Sdk >= 1.0.0",
+      "Microsoft.Extensions.ServiceDiscovery >= 9.1.0",
       "OpenTelemetry >= 1.11.1",
       "OpenTelemetry.Exporter.Console >= 1.9.0",
       "OpenTelemetry.Exporter.OpenTelemetryProtocol >= 1.9.0",
@@ -7554,6 +7665,10 @@
             "version": "[9.1.0, )"
           },
           "Aspire.StackExchange.Redis": {
+            "target": "Package",
+            "version": "[9.1.0, )"
+          },
+          "Microsoft.Extensions.ServiceDiscovery": {
             "target": "Package",
             "version": "[9.1.0, )"
           },

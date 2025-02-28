@@ -13,6 +13,16 @@ var builder = WebApplication.CreateBuilder(args);
 var config = builder.Configuration;
 
 //builder.AddServiceDefaults();
+builder.Services.AddServiceDiscovery();
+
+builder.Services.ConfigureHttpClientDefaults(http =>
+{
+    // Turn on resilience by default
+    http.AddStandardResilienceHandler();
+
+    // Turn on service discovery by default
+    http.AddServiceDiscovery();
+});
 
 builder.Services.AddMetrics();
 

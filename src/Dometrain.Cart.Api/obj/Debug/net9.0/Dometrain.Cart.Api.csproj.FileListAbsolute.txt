@@ -134,3 +134,5 @@
 /home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/obj/Debug/net9.0/Dometrain.Cart.Api.pdb
 /home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/obj/Debug/net9.0/Dometrain.Cart.Api.genruntimeconfig.cache
 /home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/obj/Debug/net9.0/ref/Dometrain.Cart.Api.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.dll
+/home/aljc-linux/Courses/cloud-native-workshop-dometrain-2502/src/Dometrain.Cart.Api/bin/Debug/net9.0/Microsoft.Extensions.ServiceDiscovery.Abstractions.dll

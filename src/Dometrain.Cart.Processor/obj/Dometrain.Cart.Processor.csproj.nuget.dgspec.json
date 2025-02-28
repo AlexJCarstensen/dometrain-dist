@@ -236,6 +236,10 @@
               "target": "Package",
               "version": "[9.1.0, )"
             },
+            "Microsoft.Extensions.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[9.1.0, )"
+            },
             "OpenTelemetry": {
               "target": "Package",
               "version": "[1.11.1, )"

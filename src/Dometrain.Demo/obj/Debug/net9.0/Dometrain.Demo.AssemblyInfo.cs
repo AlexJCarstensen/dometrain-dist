@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dometrain.Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8514b10bdd691778356f0afdef55a0f4a390469")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb86025a171a237d1d92db9922a8395ba83ff030")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dometrain.Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dometrain.Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
